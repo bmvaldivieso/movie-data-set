@@ -1,0 +1,1 @@
+ejemplo.sc es el archivo donde se encuentra el codigo de lo que hicimos
